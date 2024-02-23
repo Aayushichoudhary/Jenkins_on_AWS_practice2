@@ -7,7 +7,7 @@ Pipeline
     {
       steps
       {
-        git "https://github.com/Aayushichoudhary/Jenkins_on_AWS_practice2/edit/master/Jenkinsfile"
+        git "https://github.com/Aayushichoudhary/Jenkins_on_AWS_practice2.git"
       }
     }
     stage ("Run")
